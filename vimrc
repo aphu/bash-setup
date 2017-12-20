@@ -1,6 +1,8 @@
-set number
-set showmatch
-set hlsearch
-set tabstop=4
-set shiftwidth=4
 set expandtab
+set hlsearch
+set number
+set ruler
+set shiftwidth=4
+set showmatch
+set tabstop=4
+syntax on
